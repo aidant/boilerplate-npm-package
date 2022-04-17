@@ -1,4 +1,4 @@
-# **boilerplate-npm-package**
+# __boilerplate-npm-package__
 
 <p align='center'>
   __description__
